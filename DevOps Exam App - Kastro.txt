@@ -4,7 +4,7 @@
 *********************************************
 1. Launch Ubuntu 24.04, t2.large, 30 GB VM
 *********************************************
-Open below ports - 
+Open below ports -    
 Type: All TCP, Protocol: TCP, Port range: 0 - 65535*
 Type: All ICMP - IPv4, Protocol: ICMP, Port range: All
 Type: SSH, Protocol: TCP, Port range: 22*
